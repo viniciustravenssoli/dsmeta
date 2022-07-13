@@ -33,7 +33,7 @@ public class Sale {
 	}
 
 	public String getSellerName() {
-		return getSellerName();
+		return sellerName;
 	}
 
 	public void setSellerName(String sellerName) {
@@ -72,6 +72,7 @@ public class Sale {
 		this.date = date;
 	}
 
+	
 	
 	
 }
